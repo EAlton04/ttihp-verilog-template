@@ -1,5 +1,5 @@
 # Tiny Tapeout project information
-project: TestingTinyTapeout
+project:
   title:        "TestingTinyTapeout "      # Project title
   author:       "Elizabeth Alton"      # Your name
   discord:      "n/a"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
