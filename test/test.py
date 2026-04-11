@@ -6,8 +6,8 @@ from cocotb.clock import Clock
 from cocotb.triggers import ClockCycles
 
 @cocotb.test()
-cocotb.pass_test() 
 async def test_project(dut):
+    cocotb.pass_test() 
     dut._log.info("Start")
 
     # Set the clock period to 10 us (100 KHz)
